@@ -1,0 +1,21 @@
+.circular-progress-container {
+    width: 120px;
+    height: 120px;
+    margin: 10px auto;
+  }
+  
+  .circular-progress-text {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -10px;
+  }
+  
+  .red-path {
+    stroke: red !important;
+  }
+  
+  .green-path {
+    stroke: #4caf50 !important;
+  }
+  
